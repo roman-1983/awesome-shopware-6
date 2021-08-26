@@ -16,3 +16,6 @@
 ## DevOps
 - [Dockware](https://dockware.io/) - Docker based local development setup for Shopware 6 and Shopware 5
 - [ddev Shopware 6 quickstart](https://ddev.readthedocs.io/en/latest/users/cli-usage/#shopware-6-quickstart) - Docker based local development setup for Shopware 6
+
+## Learning
+- [Shopware.tv Video-Infotainment platform](https://tv.shopware.com/) - Infotainment platform for ecommerce enthusiast hosted by Shopware
