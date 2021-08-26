@@ -9,3 +9,6 @@
 
 ## Community
 - [Stackoverflow Tag "Shopware"](https://stackoverflow.com/questions/tagged/shopware) - Find developer support at Stackoverflow by using the "Shopware" tag
+
+## DevOps
+- [ddev Shopware 6 quickstart](https://ddev.readthedocs.io/en/latest/users/cli-usage/#shopware-6-quickstart) - Docker based local development setup for Shopware 6
