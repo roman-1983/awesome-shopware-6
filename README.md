@@ -6,6 +6,7 @@
 - [Shopware Slack Workspace](https://slack.shopware.com/) - Official Shopware Slack Workspace
 - [Shopware App Store](https://store.shopware.com/) - Store to rent or buy extensions for Shopware
 - [Shopware Github Organization](https://github.com/shopware)
+- [Shopware Developer Docs](https://developer.shopware.com/docs/) - Official Shopware 6 Developer Documentation
 
 ## API
 - [Official API documentation](https://shopware.stoplight.io/) - Shopware REST API documentation
