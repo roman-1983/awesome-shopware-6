@@ -10,6 +10,7 @@
 
 ## API
 - [Official API documentation](https://shopware.stoplight.io/) - Shopware REST API documentation
+- [JavaScript API client](https://github.com/bluewire-solutions/shopware-6-api-client) - JavaScript REST API client
 
 ## Community
 - [Stackoverflow Tag "Shopware"](https://stackoverflow.com/questions/tagged/shopware) - Find developer support at Stackoverflow by using the "Shopware" tag
