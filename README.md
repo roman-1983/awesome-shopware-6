@@ -7,6 +7,9 @@
 - [Shopware App Store](https://store.shopware.com/) - Store to rent or buy extensions for Shopware
 - [Shopware Github Organization](https://github.com/shopware)
 
+## API
+- [Official API documentation](https://shopware.stoplight.io/) - Shopware REST API documentation
+
 ## Community
 - [Stackoverflow Tag "Shopware"](https://stackoverflow.com/questions/tagged/shopware) - Find developer support at Stackoverflow by using the "Shopware" tag
 
