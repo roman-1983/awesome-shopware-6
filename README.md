@@ -12,6 +12,10 @@
 - [Official API documentation](https://shopware.stoplight.io/) - Shopware REST API documentation
 - [JavaScript API client](https://github.com/bluewire-solutions/shopware-6-api-client) - JavaScript REST API client
 
+## Blogs
+- [Shyim's Brain](https://shyim.me/) - english Blog of a core Shopware Developer
+- [Shopwarian](https://shopwarian.com/) - english Shopware 6 Developer blog
+
 ## Community
 - [Stackoverflow Tag "Shopware"](https://stackoverflow.com/questions/tagged/shopware) - Find developer support at Stackoverflow by using the "Shopware" tag
 
